@@ -50,5 +50,3 @@ The dataset consists of multiple features related to learners, including:
 - Implement deep learning techniques for better segmentation.
 - Perform model validation using real-world employment trends.
 
----
-?? **Author:** Vaibhav 
